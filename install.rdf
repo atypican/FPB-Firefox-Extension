@@ -4,16 +4,15 @@
 
   <Description about="urn:mozilla:install-manifest">
   
-    <em:id>zotero@chnm.gmu.edu</em:id>
-    <em:name>Zotero</em:name>
-    <em:version>4.0.8</em:version>
-    <em:creator>Center for History and New Media<br/>George Mason University</em:creator>
-    <em:contributor>Dan Cohen</em:contributor>
-    <em:contributor>Sean Takats</em:contributor>
-    <em:developer>Simon Kornblith</em:developer>
-    <em:developer>David Norton</em:developer>
-    <em:developer>Dan Stillman</em:developer>
-    <em:homepageURL>http://www.zotero.org</em:homepageURL>
+    <em:id>atypican@freepressbible.net</em:id>
+    <em:name>Free Press Bible</em:name>
+    <em:version>alpha</em:version>
+    <em:creator>Participants at freepressbible.net</em:creator>
+    <em:contributor>atypican</em:contributor>
+    <em:contributor>TBA</em:contributor>
+    <em:developer>TBA</em:developer>
+    <em:developer>TBA</em:developer>
+    <em:homepageURL>http://freepressbible.net</em:homepageURL>
     <em:optionsURL>chrome://zotero/content/preferences/preferences.xul</em:optionsURL>
     <em:aboutURL>chrome://zotero/content/about.xul</em:aboutURL>
     <em:iconURL>chrome://zotero/skin/zotero_z_32px.png</em:iconURL>
